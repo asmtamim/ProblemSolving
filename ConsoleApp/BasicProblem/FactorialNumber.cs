@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp.ProblemSolving
+namespace ConsoleApp.BasicProblem
 {
     internal class FactorialNumber
     {

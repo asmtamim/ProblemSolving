@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ConsoleApp.ProblemSolving;
+using ConsoleApp.BasicProblem;
 
 namespace ConsoleApp
 {
@@ -12,6 +12,7 @@ namespace ConsoleApp
         public static void Main(string[] args)
         {
             //FactorialNumber.Run(); 
+            IntArraySort.Run(); 
         }
     }
 }
