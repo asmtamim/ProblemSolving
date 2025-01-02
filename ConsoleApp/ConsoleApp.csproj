@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="CodeChef\" />
-    <Folder Include="LeetCode\" />
-    <Folder Include="Codeforces\" />
-  </ItemGroup>
-
 </Project>
