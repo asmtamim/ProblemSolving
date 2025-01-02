@@ -12,7 +12,7 @@ namespace ConsoleApp
         public static void Main(string[] args)
         {
             //FactorialNumber.Run(); 
-            IntArraySort.Run(); 
+            //IntArraySort.Run(); 
         }
     }
 }
