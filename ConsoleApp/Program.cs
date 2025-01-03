@@ -18,7 +18,8 @@ namespace ConsoleApp
             //IntArraySort.Run(); 
             //Swap2Numbers.Run();
             //StringReverse.Run();
-            StringReverse.Run();
+            //LeapYear.Run();
+            Fibonacci.Run();
         }
     }
 }
