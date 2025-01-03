@@ -16,6 +16,9 @@ namespace ConsoleApp
         {
             //FactorialNumber.Run(); 
             //IntArraySort.Run(); 
+            //Swap2Numbers.Run();
+            //StringReverse.Run();
+            StringReverse.Run();
         }
     }
 }
